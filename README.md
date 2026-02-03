@@ -52,4 +52,24 @@ The objective is to demonstrate **Excel-based data analysis skills**, including 
 - Observed patterns in employee exits across different categories
 - Highlighted data-driven observations that can support HR strategy
 
+
+---
+
+## 🚀 Learnings & Takeaways
+- Strengthened hands-on Excel data analysis skills
+- Improved ability to translate business questions into analytical logic
+- Gained experience in structuring insights clearly for stakeholders
+
+---
+
+## 📬 Contact
+**Srikanth Shenoy**  
+📧 Email: shenoy20shri@gmail.com  
+🔗 LinkedIn: *(add your LinkedIn URL)*  
+
+---
+
+⭐ *If you find this project useful, feel free to explore my other data analysis projects on GitHub.*
+
+
 *(Detailed answers and calculations are available in the Excel workbook.)*
