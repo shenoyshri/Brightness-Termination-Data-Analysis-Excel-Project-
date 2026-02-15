@@ -1,4 +1,4 @@
-# Brightness-Termination-Data-Analysis-Excel-Project-
+# Workforce Attrition Forecasting & Termination Analysis
 ## 📌 Project Overview
 This project focuses on analyzing **employee termination data** using **Microsoft Excel** to answer business-driven questions related to workforce trends, termination reasons, and operational insights.
 
